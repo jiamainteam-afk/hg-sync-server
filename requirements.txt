@@ -1,0 +1,6 @@
+fastapi==0.115.0
+uvicorn==0.30.6
+anthropic==0.40.0
+firebase-admin==6.5.0
+httpx==0.27.2
+python-multipart==0.0.9
